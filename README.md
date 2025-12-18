@@ -47,6 +47,5 @@ Dream: Top Masters in AI/Quant Finance → High paying job → Live as I want, i
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Stun1406&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stun1406&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stun1406&theme=radical&hide_border=true)
 
 > "Code hard, dream harder. Fixing the world's bullshit one model at a time." 
