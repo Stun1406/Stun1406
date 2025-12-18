@@ -1,45 +1,51 @@
-# Hey, I'm Taanish Chauhan 👋
+# 👋 Hello There ! I'm Taanish Chauhan
 
-<img src="https://github.com/Stun1406.png" align="right" width="300" alt="I'm killing myself">
+<img src="https://github.com/Stun1406.png" align="right" width="300" alt="That badass night-coding glow">
 
-AI/ML fanatic • full-stack chaos creator • aspiring quant wizard & future CEO  
-B.Tech CSE (AI/ML) @ Manipal University Jaipur | CGPA 8.3 → targeting 10  
-Currently interning @ LithiumQ + mentoring 500+ students
+AI/ML fanatic • Full-stack chaos creator • Aspiring quant wizard  
+B.Tech CSE (AI/ML) @ Manipal University Jaipur | CGPA 8.3+ | Class of 2028  
+Currently interning @ LithiumQ • Leading ACM MUJ SIGAI (mentoring 500+) & Coding Ninjas 10X Chapter (300+ event participants)
 
-Turning wild ideas into code that slaps: legal intelligence platforms that read court transcripts like a lawyer, misinformation detectors that actually work, multi-agent LLMs that outsmart single models, and trading bots that sniff Elon’s tweets before the market does.
+Building real shit: Legal AI platforms (91–93% accuracy on court docs/contracts), misinformation detectors (88% F1), multi-agent LLMs (research paper in progress), quant trading bots sniffing market vibes.
 
-Plotting my move to a top Masters Program in AI or Quantitative Finance → land that dream high paying job → drive my Aston Martin.
+Dream: Top Masters in AI/Quant Finance → High paying job → Live as I want, if I want.
 
 ### 🔥 Current Obsessions
-- Legal AI (Ny.AI & FlyntAI) – 91–93% accuracy on real court docs & contracts  
-- Misinformation Detection – 88% F1-score ensemble + BERT  
-- Multi-Agent LLM Research – co-authoring paper with professor right now  
-- Quant Finance Shenanigans – sentiment trading bots  
-- Hackathons & Impact – fixing India’s legal backlog, education & health
+- Legal AI (Ny.AI & FlyntAI)
+- Misinformation Detection
+- Multi-Agent LLM Research (co-authoring paper)
+- Quant Finance Bots
+- Hackathons & Real-World Impact
 
-### 🛠️ Tech Arsenal (everything I touch)
-Python • C++ • JavaScript • TypeScript • SQL  
-FastAPI • Flask • RESTful APIs  
-TensorFlow • PyTorch • scikit-learn • OpenAI APIs • RAG Systems • BERT • Transformers  
-PostgreSQL • MySQL • Pandas • NumPy • Qdrant Vector Database  
-Azure • Docker • Git • CI/CD • ETL Pipelines  
-Power BI • Excel • Google Sheets • Matplotlib • Seaborn  
-And whatever gets the job done
+### 🛠️ Tech Arsenal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💼 Experience Highlights
-- Data Science Intern @ LithiumQ (current)  
-- Data Science Intern @ ElasticRun – 1M+ records ETL, 30% faster pipelines, Azure Speech chatbot (65% latency drop)  
-- Emerging CEO @ Coding Ninjas 10X Chapter – 50+ members, 300+ participant events, 45% engagement spike  
-- Projects & Research Head @ ACM MUJ SIGAI – mentoring 500+ students, 90%+ accuracy on 15+ AI projects
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📫 Stalk Me Properly
-- LinkedIn → [linkedin.com/in/taanish-chauhan](https://www.linkedin.com/in/taanish-chauhan)  
-- GitHub → [github.com/Stun1406](https://github.com/Stun1406)  
-- Email → taanishchauhan1406@gmail.com  
-- Phone → +91 98341 62361
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Stun1406.Stun1406)
+### 📫 Connect & Stalk
+- 📫 Email: taanishchauhan1406@gmail.com
+- ☎️ Phone: +91 98341 62361
+- 💼 LinkedIn: [linkedin.com/in/taanish-chauhan](https://www.linkedin.com/in/taanish-chauhan)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stun1406&show_icons=true&theme=radical&hide_border=true)
+[![Download Resume 🚀](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Stun1406/my-resume/main/New_Taanish_Chauhan_Resume.pdf)
 
-> "Code hard, dream harder. The world’s full of problems—let’s fix ’em one commit at a time." 💀
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Stun1406&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stun1406&layout=compact&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stun1406&theme=radical&hide_border=true)
+
+> "Code hard, dream harder. Fixing the world's bullshit one model at a time." 
