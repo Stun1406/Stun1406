@@ -42,8 +42,4 @@ And whatever gets the job done
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stun1406&show_icons=true&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stun1406&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Stun1406&theme=radical&no-frame=true)
-
 > "Code hard, dream harder. The world’s full of problems—let’s fix ’em one commit at a time." 💀
