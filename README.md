@@ -37,11 +37,12 @@ Dream: Top Masters in AI/Quant Finance → High paying job → Live as I want, i
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📫 Connect & Stalk
-- 📫 Email: taanishchauhan1406@gmail.com
-- ☎️ Phone: +91 98341 62361
-- 💼 LinkedIn: [linkedin.com/in/taanish-chauhan](https://www.linkedin.com/in/taanish-chauhan)
 
-[![Download Resume 🚀](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Stun1406/my-resume/main/New_Taanish_Chauhan_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taanish-chauhan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taanishchauhan_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/taanishchauhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TaanishChauhan/)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Stun1406/my-resume/main/New_Taanish_Chauhan_Resume.pdf)
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Stun1406&show_icons=true&theme=radical&hide_border=true)
